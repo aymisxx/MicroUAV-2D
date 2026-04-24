@@ -299,7 +299,7 @@ Potential future versions:
 -   v0.3: Continuous action mode.
 -   v0.4: Multi-agent extension.
 -   v0.5: Swarm support.
--   v1.0: Modular autonomy plugin system.
+-   v1.0: Modular autonomy plugin system using Gradeo.
 
 ------------------------------------------------------------------------
 
